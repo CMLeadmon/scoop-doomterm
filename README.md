@@ -1,5 +1,8 @@
 # scoop-doomterm
 
+> **Setup pending:** the first release has not yet been promoted. The install commands below work
+> once the generated manifest appears in `bucket/`.
+
 [Scoop](https://scoop.sh) bucket for [Doom Term](https://github.com/CMLeadmon/Doom-Term).
 
 ```powershell
