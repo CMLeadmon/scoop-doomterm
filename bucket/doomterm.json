@@ -1,12 +1,12 @@
 {
-    "version": "1.1.9",
+    "version": "1.1.10",
     "description": "A terminal with a cockpit. Keep your shells, projects, and coding agents in view.",
     "homepage": "https://github.com/CMLeadmon/Doom-Term",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CMLeadmon/Doom-Term/releases/download/v1.1.9/doomterm-windows-x64.zip",
-            "hash": "3d0fda421c6044870f105abdcb39e0cf7ef84cb000d8587a20a0f144f6bd72fd"
+            "url": "https://github.com/CMLeadmon/Doom-Term/releases/download/v1.1.10/doomterm-windows-x64.zip",
+            "hash": "64f35737deb827ba9d2f53f1ba2d3445a8e1e40422e19e8319cbb05355647a28"
         }
     },
     "bin": "doomterm.exe",
